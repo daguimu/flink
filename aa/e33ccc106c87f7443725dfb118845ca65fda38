@@ -1,0 +1,11 @@
+flink-formats/flink-avro/src/main/java/org/apache/flink/formats/avro/AvroToRowDataConverters.java
+  ai_agent 32,35,133,138-139,217-225,228-237
+flink-formats/flink-avro/src/test/java/org/apache/flink/formats/avro/AvroToRowDataConvertersTest.java
+  ai_agent 1-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "aae33ccc106c87f7443725dfb118845ca65fda38",
+  "prompts": {}
+}
